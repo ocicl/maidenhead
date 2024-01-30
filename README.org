@@ -5,6 +5,6 @@ Latitude/Longitude and Maidenhead locator system.
 
 |---------+---------------------------------------------|
 | source  | git:https://codeberg.org/glv/maidenhead.git |
-| commit  | 202671f                                     |
+| commit  | 4b9c38e                                     |
 | systems | maidenhead                                  |
 |---------+---------------------------------------------|

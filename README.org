@@ -1,10 +1,10 @@
 * maidenhead
 
-This is a Common Lisp library to convert coordinates between
-Latitude/Longitude and Maidenhead locator system.
+Maidenhead Locator System implementation
 
-|---------+---------------------------------------------|
-| source  | git:https://codeberg.org/glv/maidenhead.git |
-| commit  | 4b9c38e                                     |
-| systems | maidenhead                                  |
-|---------+---------------------------------------------|
+|---------+--------------------------------------------------|
+| source  | git:https://codeberg.org/glv/maidenhead.git     |
+| commit  | 202671f                                          |
+| systems | maidenhead                                       |
+|---------+--------------------------------------------------|
+
